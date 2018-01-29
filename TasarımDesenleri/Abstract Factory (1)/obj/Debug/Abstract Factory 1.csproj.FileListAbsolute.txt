@@ -1,0 +1,6 @@
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Abstract Factory (1)\bin\Debug\Abstract Factory (1).exe.config
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Abstract Factory (1)\obj\Debug\Abstract Factory 1.csprojResolveAssemblyReference.cache
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Abstract Factory (1)\bin\Debug\Abstract Factory (1).exe
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Abstract Factory (1)\bin\Debug\Abstract Factory (1).pdb
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Abstract Factory (1)\obj\Debug\Abstract Factory (1).exe
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Abstract Factory (1)\obj\Debug\Abstract Factory (1).pdb

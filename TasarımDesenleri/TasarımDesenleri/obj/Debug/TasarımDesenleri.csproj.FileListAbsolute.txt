@@ -1,0 +1,6 @@
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\TasarımDesenleri\bin\Debug\TasarımDesenleri.exe.config
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\TasarımDesenleri\bin\Debug\TasarımDesenleri.exe
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\TasarımDesenleri\bin\Debug\TasarımDesenleri.pdb
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\TasarımDesenleri\obj\Debug\TasarımDesenleri.csprojResolveAssemblyReference.cache
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\TasarımDesenleri\obj\Debug\TasarımDesenleri.exe
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\TasarımDesenleri\obj\Debug\TasarımDesenleri.pdb

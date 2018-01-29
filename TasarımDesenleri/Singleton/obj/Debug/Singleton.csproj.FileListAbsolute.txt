@@ -1,0 +1,6 @@
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\Singleton\bin\Debug\Singleton.exe.config
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\Singleton\bin\Debug\Singleton.exe
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\Singleton\bin\Debug\Singleton.pdb
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\Singleton\obj\Debug\Singleton.exe
+c:\users\macun\documents\visual studio 2015\Projects\TasarımDesenleri\Singleton\obj\Debug\Singleton.pdb
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Singleton\obj\Debug\Singleton.csprojResolveAssemblyReference.cache

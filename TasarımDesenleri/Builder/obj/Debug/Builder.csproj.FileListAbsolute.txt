@@ -1,0 +1,6 @@
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Builder\bin\Debug\Builder.exe.config
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Builder\bin\Debug\Builder.exe
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Builder\bin\Debug\Builder.pdb
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Builder\obj\Debug\Builder.csprojResolveAssemblyReference.cache
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Builder\obj\Debug\Builder.exe
+C:\Users\macun\Documents\Visual Studio 2015\Projects\TasarımDesenleri\Builder\obj\Debug\Builder.pdb
